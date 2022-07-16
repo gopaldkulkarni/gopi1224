@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gopal
+- 👀 I’m interested in Architecture
+- 🌱 I’m currently learning react native.
+- 💞️ I’m looking to collaborate on App developments using react native
+- 📫 You can reach out to me at gopaldk@gmail.com
